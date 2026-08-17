@@ -1,0 +1,6 @@
+{
+  "name": "Balcad Travel Agency",
+  "description": "Premium customer-facing travel agency platform for Balcad Travel Agency featuring multilingual service requests, document submissions, real-time tracking, and luxury travel services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
